@@ -1,25 +1,22 @@
+a{
+    text-decoration: none;
+    color: white;
+}
+/* navbar started */
+header {
+    background-color: #000000;
+    position: fixed; 
+    top: 0;
+    width: 100%; 
+    z-index: 1000;
+    border-bottom: 5px solid #ed1c24;
+}
 .logo{
     width: 165px;
 }
-
-
-
-li{
-    display: inline;
-}
-
-ul{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content:space-evenly;
-}
-
-a{
-    text-decoration: none;
-}
-
-.naber{
-    border-bottom: 2px solid #000000;
+.nav-text{
+    font-size: 15px;
+    font-weight: 300;
 }
 .franchise{
     background-color: transparent;
@@ -34,14 +31,24 @@ a{
     border: none;
     padding: 15px 25px;
     border-radius: 25px;
-    color: #ffffff;
 }
+.arrow-icon{
+    color: #ed1c24;
+    background-color: #ffffff;
+    padding: 5px 5px;
+    border-radius: 20px;
+    margin-left: 5px;
+}
+/* navbar ended */
 
+/* container started */
 .container{
     width: 100%;
     cursor: pointer;
 }
+/* container started */
 
+/* section(1) started */
 .section-1-h2{
     font-size: 47px;
     font-family: "Ubuntu Sans Mono", monospace;
@@ -77,10 +84,12 @@ a{
 }
 .section-1_picutre-btn{
     margin-top: 20px;
-    /* display: flex;
-    flex-wrap: wrap;
-    justify-content: center; */
-    border: 1px solid #000000;
-    padding: 15px 35px;
-    border-radius: 20px;
+    background-color: transparent;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+    padding: 15px 45px;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: medium;
 }
+/* section(1) started */
