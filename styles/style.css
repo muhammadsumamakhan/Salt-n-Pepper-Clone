@@ -2,6 +2,85 @@
     width: 165px;
 }
 
+
+
+li{
+    display: inline;
+}
+
+ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+}
+
 a{
     text-decoration: none;
+}
+
+.naber{
+    border-bottom: 2px solid #000000;
+}
+.franchise{
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    padding: 15px 25px;
+    border-radius: 25px;
+}
+.order-btn{
+    background-color: #ed1c24;
+    color: #ffffff;
+    border: none;
+    padding: 15px 25px;
+    border-radius: 25px;
+    color: #ffffff;
+}
+
+.container{
+    width: 100%;
+    cursor: pointer;
+}
+
+.section-1-h2{
+    font-size: 47px;
+    font-family: "Ubuntu Sans Mono", monospace;
+    font-weight: lighter;
+    /* color: #ffffff; */
+}
+.section-1-p{
+    font-size: 18px;
+    /* color: #ffffff; */
+}
+
+.Saltn_Pepper{
+    font-family: "Lilita One", sans-serif;
+  font-weight: 400;
+  font-size: larger;
+  font-style: normal;
+}
+
+.section-1_picutre{
+    /* margin: 0px 10px; */
+    margin: 0px 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.section-1_pic{
+    border-radius: 5px;
+    width: 250px;
+    height: 140px;
+    padding: 20px 15px;
+    cursor: pointer;
+
+}
+.section-1_picutre-btn{
+    margin-top: 20px;
+    /* display: flex;
+    flex-wrap: wrap;
+    justify-content: center; */
+    border: 1px solid #000000;
+    padding: 15px 35px;
+    border-radius: 20px;
 }
