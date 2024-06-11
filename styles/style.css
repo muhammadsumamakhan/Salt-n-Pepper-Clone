@@ -92,5 +92,46 @@ header {
     cursor: pointer;
     font-size: medium;
 }
-/* section(1) started */
+/* section(1) ended */
 
+
+/* section(2) started */
+.section-2-SD-inner{
+    /* border: #000000 solid 2px; */
+    width: 500px;
+    padding-left: 5px;
+    
+
+}
+.section-2-h2{
+    font-size: 31px;
+    font-weight: lighter;
+    margin-bottom: 25px;
+ 
+}
+
+.section-2-span{
+    font-weight:900;
+    
+}
+.section-2-p{
+    font-size: 15px;
+    color: #b7b7b7;
+    padding-bottom: 10px;
+}
+
+.fa-map-marker{
+    color: #b7b7b7;
+    
+}
+.section-2-bn{
+    background-color: #000000;
+    color: #ffffff;
+    border: none;
+    padding: 12px 30px;
+    border-radius: 25px;
+    margin: 40px 0px;
+}
+
+
+/* section(2) ended */

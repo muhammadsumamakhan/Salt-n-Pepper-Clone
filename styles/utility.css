@@ -165,3 +165,18 @@ html{
 .bg-white{
     background-color:#ffffff;
 }
+
+.tw{
+    color: #ed1c24;
+}
+
+.mt{
+    margin-top: 30px;
+}
+.s2-bg-ligth-gray{
+    background-color: #0f0f0f;
+    color:#ffffff;
+}
+.s2-BR{
+    border-radius: 10px;
+}
