@@ -130,6 +130,7 @@ html{
     padding-top: 80px;
 }
 
+
 .px1{
     padding: 0px 5px;
 }
@@ -138,8 +139,15 @@ html{
     padding: 5px 0px;
 }
 
-.pbottom{
-    padding-bottom: 130px;
+.pbottom-s1{
+    padding-bottom: 120px;
+}
+.pbottom-s2{
+    padding-bottom: 60px;
+}
+
+.pb{
+    padding-bottom: 20px;
 }
 /* padding classes ended */
 
@@ -180,3 +188,5 @@ html{
 .s2-BR{
     border-radius: 10px;
 }
+
+

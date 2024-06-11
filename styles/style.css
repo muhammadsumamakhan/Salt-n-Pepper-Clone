@@ -2,12 +2,13 @@ a{
     text-decoration: none;
     color: white;
 }
-/* navbar started */
+
+/* ===================(navbar started)=================== */
 header {
     background-color: #000000;
+    width: 100%;
     /* position: fixed; 
-    top: 0;
-    width: 100%; 
+    top: 0; 
     z-index: 1000; */
     border-bottom: 5px solid #ed1c24;
 }
@@ -39,16 +40,18 @@ header {
     border-radius: 20px;
     margin-left: 5px;
 }
-/* navbar ended */
+/* ===================(navbar ended)=================== */
 
-/* container started */
+
+/* ===================(container started)=================== */
 .container{
     width: 100%;
     cursor: pointer;
 }
-/* container started */
+/* ===================(container ended)=================== */
 
-/* section(1) started */
+
+/* ===================(section(1) started)=================== */
 .section-1-h2{
     font-size: 47px;
     font-family: "Ubuntu Sans Mono", monospace;
@@ -80,7 +83,6 @@ header {
     height: 140px;
     padding: 20px 15px;
     cursor: pointer;
-
 }
 .section-1_picutre-btn{
     margin-top: 20px;
@@ -92,16 +94,14 @@ header {
     cursor: pointer;
     font-size: medium;
 }
-/* section(1) ended */
+/* ===================(section(1) ended)=================== */
 
 
-/* section(2) started */
+/* ===================(section(2) started)=================== */
 .section-2-SD-inner{
     /* border: #000000 solid 2px; */
     width: 500px;
     padding-left: 5px;
-    
-
 }
 .section-2-h2{
     font-size: 31px;
@@ -124,14 +124,65 @@ header {
     color: #b7b7b7;
     
 }
+.fa-phone{
+    color: #b7b7b7;
+}
 .section-2-bn{
-    background-color: #000000;
+    background-color:transparent;
     color: #ffffff;
-    border: none;
+    background-color: transparent;
+    border: 1px solid white;
     padding: 12px 30px;
     border-radius: 25px;
     margin: 40px 0px;
+    cursor: pointer;
 }
+/* ===================(section(2) ended)=================== */
 
 
-/* section(2) ended */
+/* ===================(section(3) started)=================== */
+.section-3-SD-inner{
+    /* border: #000000 solid 2px; */
+    width: 370px;
+    
+}
+.section-3-img{
+    width: 360px;
+    height: 250px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+.section-3-p{
+    font-size: 15px;
+    color: #b7b7b7;
+    margin-bottom: 15px;
+}
+.section-3-span{
+    font-weight:900;
+    /* font-size: 30px; */
+    
+}
+.section-3-h2{
+    font-size: 25px;
+    font-weight: lighter;
+    margin-bottom: 15px;
+}
+.section-3-bn{
+    background-color:transparent;
+    color: #ffffff;
+    background-color: transparent;
+    border: 1px solid #ffffff;
+    padding: 12px 30px;
+    border-radius: 25px;
+    margin-top: 20px;
+    margin-bottom: 30px ;
+    cursor: pointer;
+}
+/* ===================(section(3) ended)=================== */
+
+
+
+/* ===================(section(4) started)===================  */
+
+
+/* ===================(section(4) ended)===================  */
