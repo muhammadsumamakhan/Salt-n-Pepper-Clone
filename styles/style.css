@@ -5,10 +5,10 @@ a{
 /* navbar started */
 header {
     background-color: #000000;
-    position: fixed; 
+    /* position: fixed; 
     top: 0;
     width: 100%; 
-    z-index: 1000;
+    z-index: 1000; */
     border-bottom: 5px solid #ed1c24;
 }
 .logo{
@@ -93,3 +93,4 @@ header {
     font-size: medium;
 }
 /* section(1) started */
+
