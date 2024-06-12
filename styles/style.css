@@ -228,5 +228,22 @@ header {
     height: 56px;
     margin: 18px 0px;
 }
-
+.social_feed{
+    margin: 70px 0px 40px 0px;
+}
+.social_feed>h1{
+    font-size: 35px;
+    font-family: "Playfair Display", serif;
+}
 /* ===================(section(5) ended)===================  */
+
+
+
+
+/* ===================(footer started)================= */
+
+
+
+
+
+/* ===================(footer ended)=================== */
