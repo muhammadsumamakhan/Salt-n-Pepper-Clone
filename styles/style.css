@@ -244,18 +244,19 @@ header {
 
 /* ===================(footer started)================= */
 .footer-SD-inner-div1{
-    border: #000000 solid 2px;
-    width: 350px;
+    /* border: #000000 solid 2px; */
+    width: 400px;
+    
     
 }
 .footer-p1{
-    font-size: 15px;
+    font-size: 17px;
     color: #b7b7b7;
     padding-bottom: 10px;
     margin: 30px 0px;
 }
 .footer-p2{
-    font-size: 15px;
+    font-size: 17px;
     color: #b7b7b7;
     padding-bottom: 10px; 
 }
@@ -264,51 +265,76 @@ header {
 }
 
 .footer-h1{
-    font-size: 15px;
+    font-size: 17px;
     font-family: "Playfair Display", serif;
     padding-left: 20px;
     
     
 }
 .footer-ul{
-    font-size: 13px;
+    font-size: 17px;
     color: #b7b7b7;
     cursor: pointer;
     font-family: "Playfair Display", serif;
-    /* margin: 20px 0px; */
     list-style: none;
     
     
 }
 .footer-ul>li{
     margin: 20px;
-    /* list-style: none; */
 }
 .footer-SD-inner-div2{
-    border: #000000 solid 2px;
-    width: 300px;
+    /* border: #000000 solid 2px; */
+    width: 200px;
     
 }
 .footer-SD-inner-div3{
-    border: #000000 solid 2px;
-    width: 300px;
+    /* border: #000000 solid 2px; */
+    width: 280px;
     
 }
 .footer-SD-inner-div4{
-    border: #000000 solid 2px;
-    width: 300px;
+    /* border: #000000 solid 2px; */
+    width: 200px;
     
 }
 .social-icon{
-    background-color: #ffffff;
-    color: #ed1c24;
-    font-size: 35px;
+    background-color: #ed1c24;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 12px 12px;
     border-radius: 50px;
     margin-top: 20px;
     margin-left: 13px;
-    cursor: pointer;
-
-    
+    cursor: pointer;   
+}
+/* .fa-instagram {
+    background-color: #ed1c24;
+    color: #ffffff;
+    font-size: 20px;
+    border-radius: 50px;
+    padding: 12px 12px;
+} */
+.footer-padding{
+    padding: 70px 70px;
 }
 
+.text-end{
+    text-align: end;
+    padding: 10px 100px 10px 0px;
+    font-size:8px;
+    color: #b7b7b7;
+    cursor: pointer;
+    font-family: "Playfair Display", serif;
+
+}
+
+/* .top-arrow{
+    background-color: transparent;
+    border: 1px solid #b7b7b7;
+    width: 35px;
+    height: 30px;
+    padding: 30px 10px;
+    cursor: pointer;   
+} */
 /* ===================(footer ended)=================== */

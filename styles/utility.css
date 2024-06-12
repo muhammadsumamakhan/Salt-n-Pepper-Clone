@@ -43,6 +43,7 @@ html{
     align-items: end;
 }
 .align-start{
+    
     align-items: start;
 }
 .flex-column{
@@ -164,6 +165,8 @@ html{
 .text-center{
     text-align: center;
 }
+
+
 
 .border-sm{
     border: 1px solid black;
