@@ -142,7 +142,7 @@ header {
 
 /* ===================(section(3) started)=================== */
 .section-3-SD-inner{
-    /* border: #000000 solid 2px; */
+    border: #000000 solid 2px;
     width: 370px;
     
 }
@@ -183,6 +183,50 @@ header {
 
 
 /* ===================(section(4) started)===================  */
+.section-4-SD-inner{
+    /* border: #000000 solid 2px; */
+    width: 600px;
+    padding-left: 5px;
+    height: 380px;
+    padding: 90px 0px;
+}
 
+.section-3-h1{
+    font-size: large;
+}
 
+.section-4-bn{
+    background-color: #28a745;;
+    color: #ffffff;
+    border: 1px solid #28a745;  
+    padding: 12px 25px;
+    border-radius: 25px;
+    margin: 40px 0px;
+    cursor: pointer;
+}
+.arrow-icon-G{
+    color: #28a745;
+    background-color: #ffffff;
+    padding: 5px 5px;
+    border-radius: 20px;
+    margin-left: 5px;
+}
 /* ===================(section(4) ended)===================  */
+
+
+
+/* ===================(section(5) started)===================  */
+.section-5-SD-inner{
+    border-radius: 5px;
+    width: 350px;
+    height: 235px;
+    
+    
+}
+.section-5-img{
+    width: 56px;
+    height: 56px;
+    margin: 18px 0px;
+}
+
+/* ===================(section(5) ended)===================  */

@@ -28,6 +28,7 @@ html{
 .justify-evenly{
     justify-content: space-evenly;
 }
+
 .justify-around{
     justify-content: space-around;
 }
@@ -41,11 +42,17 @@ html{
 .align-end{
     align-items: end;
 }
+.align-start{
+    align-items: start;
+}
 .flex-column{
     flex-direction: column;
 }
 .gap-5{
     gap: 25px;
+}
+.gap-4{
+    gap: 20px;
 }
 
 /* flex classes ended */
@@ -169,6 +176,9 @@ html{
 .text-white{
     color: #ffffff;
 }
+.text-black{
+    color: #000000;
+}
 
 .bg-white{
     background-color:#ffffff;
@@ -181,12 +191,19 @@ html{
 .mt{
     margin-top: 30px;
 }
+.mtop{
+    margin-top: 25px;
+}
 .s2-bg-ligth-gray{
     background-color: #0f0f0f;
     color:#ffffff;
 }
 .s2-BR{
     border-radius: 10px;
+}
+
+.mb{
+    margin-bottom: 10px;
 }
 
 
