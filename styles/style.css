@@ -338,3 +338,34 @@ header {
     cursor: pointer;   
 } */
 /* ===================(footer ended)=================== */
+
+
+
+
+
+/* ===================(about section started)=================== */
+.about-S1-h2-intro{
+    font-size: 45px;
+    font-weight:bold;
+    margin-bottom: 32px;
+}
+.about-S1-p{
+    font-size: 17px;
+    color: #b7b7b7;
+    padding-bottom: 15px;
+}
+.about-S1-h2{
+    font-size: 3.5rem;
+    font-weight: lighter;
+    padding-bottom: 30px;
+}
+
+.about-S-2-SD-inner{
+   /* border: #000000 solid 2px; */
+   width: 550px;
+   padding-left: 5px; 
+}
+/* ===================(about section ended)=================== */
+
+
+

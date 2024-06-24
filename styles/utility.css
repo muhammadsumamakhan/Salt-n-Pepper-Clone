@@ -65,6 +65,9 @@ html{
 .m2{
     margin: 10px;
 }
+.mL{
+    margin-left:10px ;
+}
 .m3{
     margin: 15px;
 }
@@ -139,7 +142,9 @@ html{
 .pt6{
     padding-top: 80px;
 }
-
+.pt7{
+    padding-top: 50px;
+}
 
 .px1{
     padding: 0px 5px;
@@ -158,6 +163,9 @@ html{
 
 .pb{
     padding-bottom: 20px;
+}
+.pb1{
+    padding-bottom: 50px;
 }
 /* padding classes ended */
 
