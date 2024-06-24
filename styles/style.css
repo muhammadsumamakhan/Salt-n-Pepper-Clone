@@ -367,9 +367,23 @@ header {
 }
 
 .about-S-1-SD-inner{
-    border: #ffffff solid 2px;
-    padding: 10px 10px 10px 10px;
+    border-radius:10px;
+    background-color:#0f0f0f;
+    /* padding: 10px 10px 10px 10px; */
     width: 370px;
+}
+.about-S1-img{
+    width: 360px;
+    height: 250px;
+    margin-bottom: 15px;
+    border-radius: 20px;
+    padding: 10px 10px 10px 10px;
+    /* position: relative; */
+
+
+}
+.displayNone{
+    display: none;
 }
 /* ===================(about section ended)=================== */
 
