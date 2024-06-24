@@ -365,6 +365,12 @@ header {
    width: 550px;
    padding-left: 5px; 
 }
+
+.about-S-1-SD-inner{
+    border: #ffffff solid 2px;
+    padding: 10px 10px 10px 10px;
+    width: 370px;
+}
 /* ===================(about section ended)=================== */
 
 
